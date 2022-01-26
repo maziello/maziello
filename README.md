@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=PyCharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MS_SQL_server-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 
